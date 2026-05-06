@@ -4,7 +4,8 @@ Fish farmers now manually watch fish to check if they are healthy.
 How Your System Will Work
 
 Step 1 – Capture Video
-Underwater camera records fish movement.
+Underwater camera records fish movement. 
+
 Step 2 – AI analyzes behavior
 Computer Vision tracks:
 swimming speed
